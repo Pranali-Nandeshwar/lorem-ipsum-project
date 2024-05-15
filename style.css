@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.section-center {
+    width: 700px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.lorem-form {
+    margin: 20px;
+}
+
+.lorem-form label {
+    font-size: 20px;
+    color: #383838;
+}
+
+#amount {
+    border: none;
+    outline: 1px solid skyblue;
+    width: 30px;
+    margin: 5px;
+}
+
+.btn {
+    background-color: skyblue;
+    border: none;
+    padding: 5px;
+    width: 120px;
+    border-radius: 5px;
+    margin: 5px;
+}
